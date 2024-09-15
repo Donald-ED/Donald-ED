@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://github.com/Donald-ED">
-        <img src="https://tenor.com/view/ted-lasso-afc-richmond-believe-gif-22969950" alt="MasterHead">
+        <img src="https://tenor.com/view/ted-lasso-ted-lasso-believe-gif-22980726" alt="MasterHead">
     </a>
 </div>
 <h1 align="center">Hi 👋, I'm Donald Echefu</h1>
