@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Dripout**
 
-- 👯 I’m currently reading **Deep Work**
+- 👯 I’m currently watching  **The Good Doctor**
 
 - 📫 How to reach me **donaldechefu@gmail.com**
 
