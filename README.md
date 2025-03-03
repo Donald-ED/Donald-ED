@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **donaldechefu@gmail.com**
 
-- 📄 Here is my [resume](https://drive.google.com/file/d/1hpBVmbyW80bJ662u_PaDpUVntq6alkMN/view?usp=sharing).
+- 📄 Here is my [resume](https://drive.google.com/file/d/1BmAe2vmZIPtL9VcPrwppW3Sh-R9AQwL_/view?usp=sharing).
 
 
 
